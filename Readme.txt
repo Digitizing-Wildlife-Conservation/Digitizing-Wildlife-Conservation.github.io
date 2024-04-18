@@ -1,3 +1,4 @@
+Holberton School ALX SE Software Engineering Cohort_17#Sprint 3#.Building Portfolio Project. Landing Page Gpa System.
 Landing_page_gpa_system
 GPA Tracker Web App Introduction Welcome to the GPA Tracker Web App, a project aimed at simplifying academic management. This web application streamlines the task of monitoring student grades and managing GPA with ease. Our team, comprising experts in HTML, Django, and MySQL, collaboratively crafted a user-friendly interface to ensure an intuitive experience.
 
